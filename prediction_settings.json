@@ -1,0 +1,8 @@
+{
+  "predictor_count": "5000",
+  "front_count": "8",
+  "back_count": "2",
+  "min_streak_front": "4",
+  "min_streak_back": "4",
+  "predict_periods": "30"
+}
